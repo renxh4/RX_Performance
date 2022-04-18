@@ -1,0 +1,3 @@
+rootProject.name = "RX_Performance"
+include ':app'
+include ':mylibrary'
